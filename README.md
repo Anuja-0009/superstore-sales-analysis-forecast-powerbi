@@ -53,7 +53,10 @@ This project focuses on analyzing sales performance and predicting future trends
 -----
 
 ## 📸 Screenshots
-
+1-https://github.com/Anuja-0009/superstore-sales-analysis-forecast-powerbi/blob/main/Sales-1.png
+2-https://github.com/Anuja-0009/superstore-sales-analysis-forecast-powerbi/blob/main/sales-2.png
+3-https://github.com/Anuja-0009/superstore-sales-analysis-forecast-powerbi/blob/main/sales-3.png
+4-https://github.com/Anuja-0009/superstore-sales-analysis-forecast-powerbi/blob/main/sales-4.png
 
 ---
 
